@@ -20,6 +20,10 @@ const ContentBox = styled.div`
   & a:hover {
     text-decoration: underline;
   }
+
+  & code {
+    color: ${colors.darkBlue};
+  }
 `;
 
 type Props = {};

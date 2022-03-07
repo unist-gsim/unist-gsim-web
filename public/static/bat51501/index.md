@@ -19,13 +19,13 @@
 
 ### Documents
 
-- [개인 컴퓨터에 Python 프로그래밍 환경 설치 방법](./install_python)
-- [cs1robot 라이브러리 사용 안내](./downloads/robotnotes.pdf)
+- [개인 컴퓨터에 Python 프로그래밍 환경 설치 방법](/bat51501/install_python)
+- [cs1robot 라이브러리 사용 안내](/bat51501/downloads/robotnotes.pdf)
 
 ### Downloads
 
-- [cs1 라이브러리 다운로드 (cs1robots, cs1media, cs1graphics)](./downloads/cs1_modules.zip)
-- [cs1robot 용 world 파일 모음 다운로드](./downloads/worlds.zip)
+- [cs1 라이브러리 다운로드 (cs1robots, cs1media, cs1graphics)](/bat51501/downloads/cs1_modules.zip)
+- [cs1robot 용 world 파일 모음 다운로드](/bat51501/downloads/worlds.zip)
 
 ### Links
 
