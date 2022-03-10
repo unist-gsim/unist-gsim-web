@@ -1,11 +1,11 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import NotFound from "./components/NotFound";
+import Static from "./components/Static";
 
 function AppRouter() {
   return (
     <Routes>
-      <Route path="*" element={<NotFound />} />
+      <Route path="*" element={<Static />} />
     </Routes>
   );
 }
