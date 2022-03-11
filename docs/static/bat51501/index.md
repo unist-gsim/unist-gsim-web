@@ -17,31 +17,39 @@
 - 3월 5일부터 4월 23일까지 8주간 토요일 오후 1시 - 3시 45분 온라인 수업이 진행됩니다.
 - 온라인 수업에는 블랙보드의 [Collaborate](https://blackboard.unist.ac.kr/webapps/collab-ultra/tool/collabultra?course_id=_7246_1&mode=cpview) 기능을 사용해서 참여해주세요.
 
-### Documents
+### Learning Environment
 
-- [개인 컴퓨터에 Python 프로그래밍 환경 설치 방법](/bat51501/install_python)
-- [cs1robot 라이브러리 사용 안내](/static/bat51501/downloads/robotnotes.pdf)
+- Python 프로그래밍 실습을 위해 [Pythonpad](https://www.pythonpad.co/pads/new) 웹 서비스를 이용하거나 개인 컴퓨터에 설치한 Python 프로그래밍 환경을 이용하실 수 있습니다.
+- 개인 컴퓨터에 실습 환경 구축은 [개인 컴퓨터에 Python 프로그래밍 환경 설치 방법](/bat51501/install_python) 을 참고해주시고, 실습에 필요한 cs1 라이브러리 및 cs1robots world 파일들은 아래 다운로드 링크를 이용해 다운로드 해주세요.
 
 ### Downloads
 
 - [cs1 라이브러리 다운로드 (cs1robots, cs1media, cs1graphics)](/bat51501/downloads/cs1_modules.zip)
 - [cs1robot 용 world 파일 모음 다운로드](/static/bat51501/downloads/worlds.zip)
 
-### Links
+### Course Materials
 
-- [Pythonpad](https://www.pythonpad.co/pads/new)
+### Manuals
 
-### Lecture Slides
+- [cs1robots 사용방법 설명 문서](/static/bat51501/downloads/robotnotes.zip)
 
-- [Lecture 1 - Course Introduction, Functions, and Loops (3/5)](https://docs.google.com/presentation/d/1ppoUDNKHFVSKkhjxScNFxfVSicNFuvPyx0NF_FkyRq4/export?format=pdf)
-- Lecture 2 - Conditionals and While Loops
-- Lecture 3 - Variables and Basic Data Types
-- Lecture 4 - Functions with Parameters and Return Values
-- Lecture 5 - Local and Global Varialbles, Classes and Objects
-- Lecture 6 - Sequences: Lists, Strings, and Tuples
-- Lecture 7 - Strings, Sets, and Dictionaries
-- Lecture 8 - Files and Text Processing
+#### Lecture 1 - Course Introduction, Functions, and Loops (3/5)
 
-### Assignments
+- [Lecture Note 1](https://docs.google.com/presentation/d/1ppoUDNKHFVSKkhjxScNFxfVSicNFuvPyx0NF_FkyRq4/export?format=pdf)
 
-TBA
+#### Lecture 2 - Conditionals and While Loops
+
+- [Lecture Note 2](https://docs.google.com/presentation/d/1f5LxStE0IBfiQa4AnfjULmxaqQLAmz_nSuvGGUw-ebA/export?format=pdf)
+- [Assignment 1](/bat51501/assignments/01_robot) (Submit until **3/19 23:59**)
+
+#### Lecture 3 - Variables and Basic Data Types
+
+#### Lecture 4 - Functions with Parameters and Return Values
+
+#### Lecture 5 - Local and Global Varialbles, Classes and Objects
+
+#### Lecture 6 - Sequences: Lists, Strings, and Tuples
+
+#### Lecture 7 - Strings, Sets, and Dictionaries
+
+#### Lecture 8 - Files and Text Processing

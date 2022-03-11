@@ -24,6 +24,10 @@ const ContentBox = styled.div`
   & code {
     color: ${colors.darkBlue};
   }
+
+  & img {
+    max-width: 20rem;
+  }
 `;
 
 type Props = {};
