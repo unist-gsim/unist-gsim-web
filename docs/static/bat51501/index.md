@@ -37,7 +37,7 @@
 
 - [Lecture Note 1](https://docs.google.com/presentation/d/1ppoUDNKHFVSKkhjxScNFxfVSicNFuvPyx0NF_FkyRq4/export?format=pdf)
 
-#### Lecture 2 - Conditionals and While Loops
+#### Lecture 2 - Conditionals and While Loops (3/12)
 
 - [Lecture Note 2](https://docs.google.com/presentation/d/1f5LxStE0IBfiQa4AnfjULmxaqQLAmz_nSuvGGUw-ebA/export?format=pdf)
 - [Assignment 1](/bat51501/assignments/01_robot) (Submit until **3/19 23:59**)
