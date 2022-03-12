@@ -24,14 +24,14 @@
 
 ### Downloads
 
-- [cs1 라이브러리 다운로드 (cs1robots, cs1media, cs1graphics)](/bat51501/downloads/cs1_modules.zip)
+- [cs1 라이브러리 다운로드 (cs1robots, cs1media, cs1graphics)](/static/bat51501/downloads/cs1_modules.zip)
 - [cs1robot 용 world 파일 모음 다운로드](/static/bat51501/downloads/worlds.zip)
 
 ### Course Materials
 
 ### Manuals
 
-- [cs1robots 사용방법 설명 문서](/static/bat51501/downloads/robotnotes.zip)
+- [cs1robots 사용방법 설명 문서](/static/bat51501/downloads/robotnotes.pdf)
 
 #### Lecture 1 - Course Introduction, Functions, and Loops (3/5)
 
