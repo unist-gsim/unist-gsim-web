@@ -44,6 +44,9 @@
 
 #### Lecture 3 - Variables and Basic Data Types
 
+- [Lecture Note 3](https://docs.google.com/presentation/d/1DAvJVJOAov7hUovq7cyEMWYzcaRhIJYtHeU5vNwDhpo/export?format=pdf)
+- [Assignment 2](/bat51501/assignments/02_robot_and_poster) (Submit until **3/26 23:59**)
+
 #### Lecture 4 - Functions with Parameters and Return Values
 
 #### Lecture 5 - Local and Global Varialbles, Classes and Objects
