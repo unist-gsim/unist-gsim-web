@@ -114,7 +114,9 @@ bot = Robot(beepers=100, avenue=2, street=6, orientation='E')
 
 #### 실습 및 제출
 
-- [실습 링크](https://www.pythonpad.co/pads/rdl0ydk5qt9t4bvf/exercise)
+- [실습 링크](https://www.pythonpad.co/pads/ey526vukfyewdfsd/exercise)
+
+> *이전에 링크되어있던 실습 페이지에 채점 오류가 있었습니다. 3월 19일 오후 5:20 이전에 코드 작성을 시작한 경우 다음 링크에서 기존에 작업하던 코드를 복사해서 위의 링크로 옮겨서 작업하고 채점해주세요.* [기존의 실습 링크](https://www.pythonpad.co/pads/rdl0ydk5qt9t4bvf/exercise)
 
 ---------------------------------------
 

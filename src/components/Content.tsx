@@ -28,6 +28,12 @@ const ContentBox = styled.div`
   & img {
     max-width: 20rem;
   }
+
+  & blockquote {
+    padding: 0.3rem 1rem;
+    background-color: ${colors.lightGray};
+    border-left: 5px solid ${colors.gray};
+  }
 `;
 
 type Props = {};
