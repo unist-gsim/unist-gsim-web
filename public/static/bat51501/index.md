@@ -49,6 +49,9 @@
 
 #### Lecture 4 - Functions with Parameters and Return Values
 
+- [Lecture Note 4](https://docs.google.com/presentation/d/10IK-9DwwdjCq3m4K2VpDEdMT9colkboA6tgp_StlANA/export?format=pdf)
+- [Assignment 3](/bat51501/assignments/03_math) (Submit until **4/2 23:59**)
+
 #### Lecture 5 - Local and Global Varialbles, Classes and Objects
 
 #### Lecture 6 - Sequences: Lists, Strings, and Tuples
