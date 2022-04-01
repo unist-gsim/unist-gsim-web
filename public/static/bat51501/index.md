@@ -8,7 +8,7 @@
 
 ### Grading
 
-- 과제 - 60%
+- 과제 - 60% ([제출여부 확인](https://docs.google.com/document/d/16djD2f3guU1REarsyDht8PW1aDTtSE0E3CWlaatycdU/export?format=pdf))
 - 프로젝트 - 30%
 - 출석 - 10%
 
@@ -53,6 +53,9 @@
 - [Assignment 3](/bat51501/assignments/03_math) (Submit until **4/2 23:59**)
 
 #### Lecture 5 - Local and Global Varialbles, Classes and Objects
+
+- [Lecture Note 5](https://docs.google.com/presentation/d/1dWbMgudcg9w09e_TXMl3sACWo8texfFfDSkhzpZrN-E/export?format=pdf)
+- [Assignment 4](/bat51501/assignments/04_calc) (Submit until **4/9 23:59**)
 
 #### Lecture 6 - Sequences: Lists, Strings, and Tuples
 

@@ -1,7 +1,7 @@
 ## Assignment 3
 **제출 기한: 2021. 04. 02. 23:59**
 
-아래 3개의 문제(Task)를 해결하는 Python 코드를 작성해서 문서 가장 아래에 있는 [제출 링크](https://docs.google.com/forms/d/e/1FAIpQLSdDyqNLvX3YW9owGy2blrFY9k9w1QG3CFIwm55FHrxUvmnhEQ/viewform?usp=sf_link)를 이용해 제출해주세요. 
+아래 2개의 문제(Task)를 해결하는 Python 코드를 작성해서 문서 가장 아래에 있는 [제출 링크](https://docs.google.com/forms/d/e/1FAIpQLSdDyqNLvX3YW9owGy2blrFY9k9w1QG3CFIwm55FHrxUvmnhEQ/viewform?usp=sf_link)를 이용해 제출해주세요. 
 
 
 ### 실습 및 제출 방법
