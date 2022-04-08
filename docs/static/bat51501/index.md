@@ -9,7 +9,7 @@
 ### Grading
 
 - 과제 - 60% ([제출여부 확인](https://docs.google.com/document/d/16djD2f3guU1REarsyDht8PW1aDTtSE0E3CWlaatycdU/export?format=pdf))
-- 프로젝트 - 30%
+- 프로젝트 - 30% (4/23 - 5/7)
 - 출석 - 10%
 
 ### Online Lectures
@@ -42,23 +42,26 @@
 - [Lecture Note 2](https://docs.google.com/presentation/d/1f5LxStE0IBfiQa4AnfjULmxaqQLAmz_nSuvGGUw-ebA/export?format=pdf)
 - [Assignment 1](/bat51501/assignments/01_robot) (Submit until **3/19 23:59**)
 
-#### Lecture 3 - Variables and Basic Data Types
+#### Lecture 3 - Variables and Basic Data Types (3/19)
 
 - [Lecture Note 3](https://docs.google.com/presentation/d/1DAvJVJOAov7hUovq7cyEMWYzcaRhIJYtHeU5vNwDhpo/export?format=pdf)
 - [Assignment 2](/bat51501/assignments/02_robot_and_poster) (Submit until **3/26 23:59**)
 
-#### Lecture 4 - Functions with Parameters and Return Values
+#### Lecture 4 - Functions with Parameters and Return Values (3/26)
 
 - [Lecture Note 4](https://docs.google.com/presentation/d/10IK-9DwwdjCq3m4K2VpDEdMT9colkboA6tgp_StlANA/export?format=pdf)
 - [Assignment 3](/bat51501/assignments/03_math) (Submit until **4/2 23:59**)
 
-#### Lecture 5 - Local and Global Varialbles, Classes and Objects
+#### Lecture 5 - Local and Global Varialbles, Classes and Objects (4/2)
 
 - [Lecture Note 5](https://docs.google.com/presentation/d/1dWbMgudcg9w09e_TXMl3sACWo8texfFfDSkhzpZrN-E/export?format=pdf)
 - [Assignment 4](/bat51501/assignments/04_calc) (Submit until **4/9 23:59**)
 
-#### Lecture 6 - Sequences: Lists, Strings, and Tuples
+#### Lecture 6 - Sequences: Lists, Strings, and Tuples (4/9)
 
-#### Lecture 7 - Strings, Sets, and Dictionaries
+- [Lecture Note 6](https://docs.google.com/presentation/d/1rQZ057CzHpdwel5MrtxjWtC9h0jKuH0F08ceApUUrNY/export?format=pdf)
+- [Assignment 5](/bat51501/assignments/05_data) (Submit until **4/9 23:59**)
 
-#### Lecture 8 - Files and Text Processing
+#### Lecture 7 - Strings, Sets, and Dictionaries (4/16)
+
+#### Lecture 8 - Files and Text Processing (4/23)
