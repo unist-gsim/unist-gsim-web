@@ -60,7 +60,7 @@
 #### Lecture 6 - Sequences: Lists, Strings, and Tuples (4/9)
 
 - [Lecture Note 6](https://docs.google.com/presentation/d/1rQZ057CzHpdwel5MrtxjWtC9h0jKuH0F08ceApUUrNY/export?format=pdf)
-- [Assignment 5](/bat51501/assignments/05_data) (Submit until **4/9 23:59**)
+- [Assignment 5](/bat51501/assignments/05_data) (Submit until **4/16 23:59**)
 
 #### Lecture 7 - Strings, Sets, and Dictionaries (4/16)
 
