@@ -1,0 +1,1011 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="me2:image" content="http://imgmovie.naver.com/today/naverme/naverme_profile.jpg"/>
+<meta property="me2:post_tag" content="네이버영화 "/>
+<meta property="me2:category1" content="네이버영화"/>
+<meta property="me2:category2" content=""/>
+		<meta property="og:title" content="랭킹 : 네이버 영화"/>
+				<meta property="og:description" content="영화, 영화인, 예매, 박스오피스 랭킹 정보 제공" />
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://movie.naver.com/movie/sdb/rank/rmovie.naver?sel=cur&amp;date=20220414"/>
+		<meta property="og:image" content="http://static.naver.net/m/movie/icons/OG_270_270.png"/><!-- http://static.naver.net/m/movie/im/navermovie.jpg -->
+<meta property="og:article:thumbnailUrl" content="http://imgmovie.naver.com/today/naverme/naverme_profile.jpg"/>
+<meta property="og:article:author" content="네이버 영화"/>
+<meta property="og:article:author:url" content="https://movie.naver.com/"/>
+		<link rel="shortcut icon" href="https://ssl.pstatic.net/static/m/movie/icons/naver_movie_favicon.ico" type="image/x-icon">
+<title>랭킹 : 네이버 영화</title>
+		<link rel="stylesheet" type="text/css" href="/common/css/movie_tablet.css?20220406163047">
+		<link rel="stylesheet" type="text/css" href="/common/css/common.css?20220406163047">
+		<link rel="stylesheet" type="text/css" href="/common/css/layout.css?20220406163047">
+		<link rel="stylesheet" type="text/css" href="/common/css/old_default.css?20220406163047">
+		<link rel="stylesheet" type="text/css" href="/common/css/old_layout.css?20220406163047">
+		<link rel="stylesheet" type="text/css" href="/common/css/old_common.css?20220406163047">	
+		<link rel="stylesheet" type="text/css" href="/common/css/old_super_db.css?20220406163047">
+<script type="text/javascript" src="/common/js/default-min.js"></script>
+</head>
+<body >
+<div id="wrap" class="fix">
+	<!-- GNB -->
+<script type="text/javascript">
+function delayed_submit(object) {
+	if (navigator.userAgent.indexOf('MSIE') == -1) {
+		var b = c = new Date();
+      	while ((b.getTime() - c.getTime()) < 100) {
+			b = new Date();
+      	}
+		//window.setTimeout(function() {object.submit(); console.log('s');}, 300);
+	}
+}
+var gnb_service = 'movie';
+var gnb_logout = 'http://movie.naver.com/movie/sdb/rank/rmovie.naver%3Fsel%3Dcur%26date%3D20220414';
+var gnb_template = "gnb_utf8"; /* https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn */
+var gnb_brightness=3;
+var gnb_response = true;
+</script>
+<a name="gnb_top"></a>
+    <!-- skip navigation -->
+    <div id="u_skip">
+            <a href="#header" onclick="document.getElementById('header').tabIndex=-1;document.getElementById('header').focus();return false;"><span>메인 메뉴로 바로가기</span></a>
+            <a href="#content" id="gnb_goContent" onclick="document.getElementById('content').tabIndex=-1;document.getElementById('content').focus();return false;"><span>본문으로 바로가기</span></a>
+    </div>
+    <!-- //skip navigation -->
+	<!-- GNB -->
+	<div class="gnb_container">
+		<div class="gnb_content">
+			<div class="gnb_box">
+			 	<div class="gnb_wrap">
+					<div id="gnb" onload="javascript:getGNB();">
+				   	 	<script type="text/javascript" charset="utf-8" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn"></script>
+					</div>
+				</div>
+				<!-- 검색창 -->
+				<form id="jSearchForm" action="/movie/search/result.naver" method="get" style="margin:0;display:none;">
+					<input type="text" name="query" maxlength="100" title="영화검색" />
+					<input type="hidden" name="section" value="all"/>
+				</form>
+				<fieldset id="jSearchArea" class="srch_area">
+					<legend><span class="blind">영화검색 영역</span></legend>
+					<div class="srch_field_on _view">
+						<span class="ipt_srch">
+							<label for="ipt_tx_srch" id="search_placeholder">영화검색</label>
+							<input type="text" id="ipt_tx_srch" class="ipt_tx_srch" name="query" maxlength="100" accesskey="s" style="ime-mode:active;" autocomplete="off" />
+							<span class="align"></span>
+							<span class="auto_tx"><a href="#" title="자동완성 펼치기"><img src="https://ssl.pstatic.net/static/movie/2012/06/srch_arrow_down.gif" width="7" height="4" title="자동완성 펼치기" alt="자동완성 펼치기" /></a></span>
+						</span>
+						<button type="submit" title="검색" class="btn_srch" onclick="clickcr(this, 'GNB.search', '', '', event); delayed_submit(this);"><span class="blind">검색</span></button>
+						 <!-- 자동 완성 영역임 #autocomplate_template-->
+					</div>
+				</fieldset>
+				<!-- //검색창 -->
+			</div>
+		</div>
+	</div>
+	<!-- //GNB -->
+	<!-- nClicks -->
+			<script type="text/javascript">var nsc = "movie.sdb";</script>
+			<script type="text/javascript" src="/common/js/clickcr.js"></script>
+	<!-- // nClicks -->	
+	<!-- //GNB -->
+	<!-- LNB -->
+	<!-- header -->
+	<div id="header">
+		<h1 class="svc_name">
+			<a href="http://www.naver.com/" title="naver로 바로가기" class="ci_logo" id="lnb_gonaver" onclick="clickcr(this, 'LNB.naver', '', '', event);"><img src="https://ssl.pstatic.net/static/movie/2013/07/logo_ci.png" width="62" height="13" alt="NAVER" /></a>
+			<a href="/" title="영화서비스홈으로 바로가기" class="svc_logo" onclick="clickcr(this, 'LNB.movie', '', '', event);"><img src="https://ssl.pstatic.net/static/movie/2012/06/logo_svc.png" width="34" height="19" alt="영화" /></a>
+		</h1>
+		<div id="scrollbar" class="scrollbar scrollbar-noscript">
+			<div class="scrollbar-box">
+				<div class="scrollbar-content">
+					<div class="in_scroll">
+						<ul class="navi">
+						<li>
+							<a href="/" title="영화홈" class="menu01" onclick="clickcr(this, 'LNB.home', '', '', event);"><strong>영화홈</strong></a>
+						</li>
+						<li>
+							<a href="/movie/running/current.naver" title="상영작·예정작" class="menu02" onclick="clickcr(this, 'LNB.movies', '', '', event);"><strong>상영작·예정작</strong></a>
+							<ul class="navi_sub" style="display:none">
+							<li><a href="/movie/running/current.naver" title="현재 상영영화" class="sub2_1" onclick="clickcr(this, 'LNB.now', '', '', event);"><em>현재 상영영화</em></a></li>
+							<li><a href="/movie/running/premovie.naver" title="개봉 예정영화" class="sub2_2" onclick="clickcr(this, 'LNB.soon', '', '', event);"><em>개봉 예정영화</em></a></li>
+							<li><a href="/movie/running/movieclip.naver" title="예고편" class="sub2_4" onclick="clickcr(this, 'LNB.tailer', '', '', event);"><em>예고편</em></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="/movie/sdb/rank/rmovie.naver" title="영화랭킹" class="menu03_on" onclick="clickcr(this, 'LNB.db', '', '', event);"><strong>영화랭킹</strong></a>
+							<ul class="navi_sub" style="display:block">
+							<li><a href="/movie/sdb/rank/rmovie.naver" title="랭킹" class="sub3_1_on" onclick="clickcr(this, 'LNB.rank', '', '', event);"><em>랭킹</em></a></li>
+							<li><a href="/movie/sdb/browsing/bmovie_nation.naver" title="디렉토리" class="sub3_2" onclick="clickcr(this, 'LNB.dir', '', '', event);"><em>디렉토리</em></a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="/movie/point/af/list.naver" title="평점" class="menu07" onclick="clickcr(this, 'LNB.comm', '', '', event);"><strong>평점</strong></a>
+                            <ul class="navi_sub" style="display:none">
+                                <li><a href="/movie/point/af/list.naver" title="네티즌 평점" class="sub7_1" onclick="clickcr(this, 'LNB.rating', '', '', event);"><em>네티즌 평점</em></a></li>
+                                <li><a href="/movie/board/review/list.naver" title="네티즌 리뷰" class="sub7_2" onclick="clickcr(this, 'LNB.review', '', '', event);"><em>네티즌 리뷰</em></a></li>
+                            </ul>
+						</li>
+						<li>
+							<a href="http://serieson.naver.com/movie/home.nhn" title="다운로드" class="menu08" onclick="clickcr(this, 'LNB.download', '', '', event);" target="_blank"><strong>다운로드</strong></a>
+						</li>
+						<li class="nav_indi">
+						        <a href="http://tv.naver.com/indiecinema" title="인디극장 UP" target="_blank"><strong>인디극장 UP</strong></a><!-- N=a:LNB.indie -->
+						</li>						
+						</ul>
+						<!-- div class="view_mode">
+							<a href="#" title="" class="normal_on"><em>1단 보기</em></a>
+							<a href="#" title="" class="wide_off"><em>2단 보기</em></a>
+						</div -->
+					</div>
+				</div>
+			</div>
+			<div class="scrollbar-v">
+				<div class="scrollbar-button-up"></div>
+				<div class="scrollbar-track">
+					<div class="scrollbar-thumb"></div>
+				</div>
+				<div class="scrollbar-button-down"></div>
+			</div>
+		</div>
+	</div>
+	<!-- //header -->
+	<!-- //LNB -->
+	<div id="container">
+		<!-- content -->
+		<div id="content">
+			<div class="article">
+				<div class="old_layout old_super_db">
+			<h3 class="h_db_rank"><strong class="blind">랭킹</strong></h3>
+			<ul class="tab_db_rank">
+			<li><a href="/movie/sdb/rank/rmovie.naver" title="영화" class="db_tab01_on"><em>영화</em></a></li>
+			<li><a href="/movie/sdb/rank/rpeople.naver" title="영화인" class="db_tab02"><em>영화인</em></a></li>
+			<!-- li><a href="/movie/sdb/rank/rfestival.naver" title="영화제" class="db_tab03"><em>영화제</em></a></li -->
+			<!-- li><a href="/movie/sdb/rank/rcompany.naver" title="영화사" class="db_tab04"><em>영화사</em></a></li -->
+			<!-- li><a href="/movie/sdb/rank/rnews.naver" title="기자영화" class="db_tab05"><em>기자</em></a></li -->
+			<!-- li><a href="/movie/sdb/rank/rreview.naver" title="네티즌리뷰" class="db_tab06"><em>네티즌리뷰</em></a></li -->
+			</ul>
+				<!-- Content Body -->
+				<div id="cbody" class="type_1">
+					<div id="old_content">
+					<h4 class="tlt"><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/tlt_ranking_movie.gif" alt="영화랭킹" width="65" height="15">
+			</h4>
+			<!-- 탭메뉴 -->
+			<div class="tab_type_6">
+				<ul><!--활성화된 탭의 이미지는 _on.gif 입니다-->
+					<li><a href="rmovie.naver?sel=cnt&date=20220414"><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/tab_movie_1_off.gif" alt="조회순" width="112" height="28"></a></li>
+					<li><a href="rmovie.naver?sel=cur&date=20220414"><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/tab_movie_2_on.gif" alt="평점순(현재상영영화)" width="126" height="28"></a></li>
+					<li><a href="rmovie.naver?sel=pnt&date=20220414"><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/tab_movie_3_off.gif" alt="평점순(모든영화)" width="126" height="28"></a></li>
+				</ul>
+				<p class="r_date">2022.04.14 <a href="rmovie.naver?sel=cur&tg=0&date=20220413"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/btn_prev.gif" alt="prev" width="13" height="13" style="margin-right:1px;"></a></p>
+			</div>
+			<!-- //탭메뉴 -->
+			<!-- 랭킹 리스트 -->
+			<table cellspacing="0" class="list_ranking">
+				<caption class="blind">랭킹 테이블</caption>
+			<col width="6%"><col width="*"><col width="15%"><col width="3%"><col width="12%"><col width="2%"><col width="5%"> 
+			<thead>
+				<tr>
+				<th scope="col">순위</th>
+				<th scope="col">영화명</th>
+				<th scope="col" colspan="3">평점</th>
+				<th scope="col" colspan="2">변동폭</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr><td colspan="8" class="blank01"></td></tr>
+				<!-- 예제
+				<tr>
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g50.gif" alt="50" width="14" height="13"></td>
+					<td class="title"><a href="#">트랜스포머</a></td>
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10"></td>
+					<td class="range ac">7</td>
+				</tr>
+				-->
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r01.gif" alt="01" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=14448" title="패왕별희 디 오리지널">패왕별희 디 오리지널</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:93.10000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.31</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=14448" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_na_1.gif" alt="na" width="7" height="10" class="arrow"></td>
+					<td class="range ac">0</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r02.gif" alt="02" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=213733" title="극장판 주술회전 0">극장판 주술회전 0</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:92.60000228881836%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.26</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=213733" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_na_1.gif" alt="na" width="7" height="10" class="arrow"></td>
+					<td class="range ac">0</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r03.gif" alt="03" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=199860" title="기적">기적</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:92.5%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.25</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=199860" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_na_1.gif" alt="na" width="7" height="10" class="arrow"></td>
+					<td class="range ac">0</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r04.gif" alt="04" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=75378" title="파수꾼">파수꾼</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:91.89999580383301%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.19</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=75378" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r05.gif" alt="05" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=19335" title="해피 투게더">해피 투게더</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:91.80000305175781%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.18</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=19335" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">1</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r06.gif" alt="06" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=92075" title="어바웃 타임">어바웃 타임</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:91.80000305175781%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.18</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=92075" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r07.gif" alt="07" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=201073" title="코다">코다</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:91.40000343322754%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.14</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=201073" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">2</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r08.gif" alt="08" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=31422" title="와이키키 브라더스">와이키키 브라더스</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:91.19999885559082%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">9.12</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=31422" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r09.gif" alt="09" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=189623" title="남매의 여름밤">남매의 여름밤</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:89.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.95</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=189623" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_r10.gif" alt="010" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=26537" title="키즈 리턴">키즈 리턴</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:89.39999580383301%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.94</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=26537" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">4</td>
+				</tr>
+						<tr><td colspan="8" class="line01"></td></tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g11.gif" alt="11" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=138601" title="여배우는 오늘도">여배우는 오늘도</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:88.50000381469727%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.85</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=138601" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g12.gif" alt="12" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=208077" title="스파이더맨: 노 웨이 홈">스파이더맨: 노 웨이 홈</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:88.19999694824219%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.82</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=208077" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">5</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g13.gif" alt="13" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=132991" title="미라클 벨리에">미라클 벨리에</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:88.19999694824219%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.82</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=132991" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g14.gif" alt="14" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=31607" title="고양이를 부탁해">고양이를 부탁해</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:88.10000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.81</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=31607" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g15.gif" alt="15" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=28876" title="화양연화">화양연화</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:88.00000190734863%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.80</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=28876" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">7</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g16.gif" alt="16" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=189624" title="찬실이는 복도 많지">찬실이는 복도 많지</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:87.70000457763672%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.77</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=189624" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g17.gif" alt="17" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=10106" title="카사블랑카">카사블랑카</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:87.39999771118164%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.74</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=10106" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g18.gif" alt="18" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=49302" title="귀향">귀향</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:86.70000076293945%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.67</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=49302" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g19.gif" alt="19" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=164719" title="플로리다 프로젝트">플로리다 프로젝트</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:86.5999984741211%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.66</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=164719" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g20.gif" alt="20" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=193328" title="세자매">세자매</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:86.5999984741211%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.66</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=193328" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+						<tr><td colspan="8" class="line01"></td></tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g21.gif" alt="21" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=114248" title="패딩턴">패딩턴</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:85.60000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.56</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=114248" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g22.gif" alt="22" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=39368" title="나쁜 교육">나쁜 교육</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:84.60000038146973%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.46</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=39368" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g23.gif" alt="23" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=10546" title="아비정전">아비정전</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:84.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.45</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=10546" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">13</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g24.gif" alt="24" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=35388" title="그녀에게">그녀에게</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:84.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.45</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=35388" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g25.gif" alt="25" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=205623" title="드라이브 마이 카">드라이브 마이 카</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:84.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.45</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=205623" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">14</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g26.gif" alt="26" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=66820" title="초속5센티미터">초속5센티미터</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.59999656677246%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.36</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=66820" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">14</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g27.gif" alt="27" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=192150" title="모가디슈">모가디슈</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.29999923706055%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.33</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=192150" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">13</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g28.gif" alt="28" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=190991" title="이상한 나라의 수학자">이상한 나라의 수학자</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.10000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.31</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=190991" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">13</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g29.gif" alt="29" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=172344" title="신은 죽지 않았다 3: 어둠 속의 빛">신은 죽지 않았다 3: 어둠 속의 빛</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.10000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.31</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=172344" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g30.gif" alt="30" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=196809" title="연애 빠진 로맨스">연애 빠진 로맨스</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.10000419616699%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.31</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=196809" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">14</td>
+				</tr>
+						<tr><td colspan="8" class="line01"></td></tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g31.gif" alt="31" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=194813" title="어나더 라운드">어나더 라운드</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:83.00000190734863%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.30</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=194813" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">14</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g32.gif" alt="32" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=212095" title="수퍼 소닉2">수퍼 소닉2</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:82.89999961853027%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.29</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=212095" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">19</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g33.gif" alt="33" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=69023" title="멋진 하루">멋진 하루</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:82.20000267028809%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.22</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=69023" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g34.gif" alt="34" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=98738" title="프란시스 하">프란시스 하</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:81.49999618530273%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.15</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=98738" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g35.gif" alt="35" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=192143" title="나이트메어 앨리">나이트메어 앨리</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:81.09999656677246%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.11</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=192143" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">16</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g36.gif" alt="36" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=193961" title="루이스 웨인: 사랑을 그린 고양이 화가">루이스 웨인: 사랑을 그린 고양이 화가</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:80.79999923706055%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">8.08</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=193961" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g37.gif" alt="37" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=181114" title="날씨의 아이">날씨의 아이</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:79.60000038146973%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.96</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=181114" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">17</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g38.gif" alt="38" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=130342" title="한여름의 판타지아">한여름의 판타지아</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:78.00000190734863%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.80</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=130342" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g39.gif" alt="39" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=207921" title="스펜서">스펜서</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:77.39999771118164%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.74</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=207921" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g40.gif" alt="40" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=80737" title="언차티드">언차티드</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:76.19999885559082%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.62</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=80737" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+						<tr><td colspan="8" class="line01"></td></tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g41.gif" alt="41" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=183862" title="뜨거운 피">뜨거운 피</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:74.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.45</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=183862" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g42.gif" alt="42" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=177366" title="킹메이커">킹메이커</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:72.8000020980835%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.28</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=177366" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g43.gif" alt="43" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=154282" title="더 배트맨">더 배트맨</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:72.69999980926514%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.27</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=154282" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g44.gif" alt="44" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=190695" title="모비우스">모비우스</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:72.10000038146973%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.21</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=190695" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g45.gif" alt="45" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=214553" title="앰뷸런스">앰뷸런스</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:71.70000076293945%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">7.17</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=214553" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">18</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g46.gif" alt="46" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=164122" title="신비한 동물들과 덤블도어의 비밀">신비한 동물들과 덤블도어의 비밀</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:65.9000015258789%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">6.59</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=164122" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g47.gif" alt="47" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=189137" title="스텔라">스텔라</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:64.49999809265137%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">6.45</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=189137" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">19</td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g48.gif" alt="48" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=194204" title="해적: 도깨비 깃발">해적: 도깨비 깃발</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:55.900001525878906%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">5.59</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=194204" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+						<td colspan="2" class="new_icon"><img width="20" height="5" alt="new" src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_new_1.gif"></td>
+				</tr>
+				<tr>
+						<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/bullet_r_g49.gif" alt="49" width="14" height="13"></td>
+					<td class="title">
+						<div class="tit5">
+							<a href="/movie/bi/mi/basic.naver?code=209859" title="배니싱: 미제사건">배니싱: 미제사건</a>
+						</div>
+					</td>
+					<!-- 평점순일 때 평점 추가하기  -->
+					<td><div class="point_type_2"><div class="mask" style="width:42.89999961853027%"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/point_type_2_bg_on.gif" width="79" height="14" alt=""></div></div></td>
+					<td class="point">4.29</td>
+					<td class="ac"><a href="/movie/point/af/list.naver?st=mcode&sword=209859" class="txt_link">평점주기</a></td>
+					<!----------------------------------------->  
+					<td class="ac"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/icon_down_1.gif" alt="down" width="7" height="10" class="arrow"></td>
+					<td class="range ac">20</td>
+				</tr>
+					<tr><td colspan="8" class="blank01"></td></tr>
+			</tbody>
+			</table>
+			<!-- 페이지 네비게이션 시작 -->
+			<!-- 페이지 네비게이션 끝 -->
+			<!-- //랭킹 리스트 -->
+			<span class="txt_mark">※</span> <span class="txt_term">집계기준 : <strong>2022.04.14</strong>일 까지 네이버영화에 수록 된 영화의 관람 후 평점</span>
+			<!-- 네이버 영화평점랭킹 선정방법 -->
+			<div class="box_choice_way">
+				<img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_01.gif" alt="네이버 영화평점랭킹 선정방법" width="154" height="13">
+				<dl class="choice_way">
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_01_1.gif" alt="집계기준" width="39" height="11"></dt><dd>전국기준 현재 상영되고 있는 영화 중 <em>평점 응답자가 <strong>300명</strong> 이상</em>인 경우</dd>
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_01_2.gif" alt="집계기간" width="40" height="11"></dt><dd>전일까지의 누적 평점</dd>
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_01_3.gif" alt="표본오차" width="40" height="11"></dt><dd><em>95% 신뢰수준에서 ±5.65</em></dd>
+				</dl>
+				<table cellpadding="0" cellspacing="0" class="choice_way_data">
+				<col width="48"><col width="73"><col width="73"><col width="73"><col width="73"><col width="73"><col width="110">
+				<tr>
+					<th scope="row" class="bgwhite">구분</th>
+					<td>N</td>
+					<td>Range</td>
+					<td>Minimum</td>
+					<td>Maximum</td>
+					<td>Mean</td>
+					<td>Std.Deviation</td>
+				</tr>
+				<tr>
+					<th scope="row" class="bgwhite">평점</th>
+					<td class="range ac">26</td>
+					<td class="range ac">4.39</td>
+					<td class="range ac">4.75</td>
+					<td class="range ac">9.14</td>
+					<td class="range ac">7.59</td>
+					<td class="range ac">7.59</td>
+				</tr>
+				</table>
+				<dl class="choice_way_qna">
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_02.gif" alt="왜 평점응답자를 300명 이상으로 정하나요?" width="221" height="12"></dt>
+					<dd>일반적인 여론조사에서의 최소 응답자수가 300명이기 때문입니다.</dd>
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_03.gif" alt="표본오차 95% 신뢰수준에서 ±5.65가 무슨 뜻인가요?" width="271" height="12"></dt>
+					<dd>동일한 실험을 100번 했을 경우 95번은 ±5.65% 범위 내에서 동일한 결과가 나온다는 말입니다.</dd>
+					<dt><img src="https://ssl.pstatic.net/imgmovie/2007/img/super_db/txt_movie_ranking_04.gif" alt="Descriptive Statistics는 어떻게 보는건가요?" width="234" height="12"></dt>
+					<dd>
+						<ul>
+							<li>N=Case의 숫자</li>
+							<li>Range=응답자의 범위</li>
+							<li>Minimum=최소 응답값</li>
+							<li>Maximum=최대응답값</li>
+							<li>Mean=평균</li>
+							<li>Std.Deviation=표준편자</li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+			<!-- //네이버 영화평점랭킹 선정방법 -->
+			<!-- 탑버튼 -->
+			<div class="go_top">
+			<a href="#gnb_top"><img src="https://ssl.pstatic.net/imgmovie/2007/img/common/btn_top.gif" alt="TOP" width="30" height="11"></a>
+			</div>
+			<!-- //탑버튼 -->
+		<img src="https://ssl.pstatic.net/imgmovie/2007/img/common/blank.gif" alt="" class="clear">
+	<!-- //Content Body -->
+<!-- footer -->
+<div id="footer">
+	<div class="in_footer">
+		<div class="foot_con">
+			<ul>
+				<li class="first"><a href="http://www.naver.com/rules/service.html" target="_blank" onclick="clickcr(this, 'fot.agreement', '', '', event);">이용약관</a></li>
+				<li><a href="http://www.naver.com/rules/privacy.html" target="_blank"  onclick="clickcr(this, 'fot.privacy', '', '', event);"><strong>개인정보처리방침</strong></a></li>
+				<li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank" onclick="clickcr(this, 'fot.disclaimer', '', '', event);">책임의 한계와 법적고지</a></li>
+				<li><a href="https://help.naver.com/support/service/main.nhn?serviceNo=800" target="_blank" onclick="clickcr(this, 'fot.help', '', '', event);">영화 고객센터</a></li>
+			</ul>
+			<p class="info">본 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.</p>
+			<p class="info">
+				사업자등록번호 : 220-81-62517<span>통신판매업 신고번호</span> : 경기성남 제 2006 - 692호<span>대표이사 : 최수연</span><span><a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp" onclick="clickcr(this, 'fot.bizinfo', '', '', event);">사업자등록정보 확인</a></span><br>
+				주소 : 경기도 성남시 분당구 불정로 6 네이버 그린팩토리 <span>대표전화 : 1588-3820</span>
+			</p>
+			<address>
+				<a href="https://www.navercorp.com" target="_blank" class="logo" onclick="clickcr(this, 'fot.nhn', '', '', event);"><img src="https://ssl.pstatic.net/static/movie/2013/07/logo_naver.png" width="63" height="11" alt="NAVER"></a>
+				<em>Copyright &copy;</em>
+				<a href="https://www.navercorp.com" target="_blank" onclick="clickcr(this, 'fot.corp', '', '', event);">NAVER Corp.</a>
+				<span>All Rights Reserved.</span>
+			</address>
+		</div>
+	</div>
+</div>
+</body>
+</html>	

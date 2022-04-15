@@ -64,4 +64,7 @@
 
 #### Lecture 7 - Strings, Sets, and Dictionaries (4/16)
 
+- [Lecture Note 7](https://docs.google.com/presentation/d/1eZxQ_42EOlRGlM69HdRBjV1CvEm-6SF9zR0L2FYx9ik/export?format=pdf)
+- [Assignment 6](bat51501/assignments/06_movies) (Submit until **4/23 23:59**)
+
 #### Lecture 8 - Files and Text Processing (4/23)
