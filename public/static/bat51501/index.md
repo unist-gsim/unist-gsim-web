@@ -68,3 +68,5 @@
 - [Assignment 6](bat51501/assignments/06_movies) (Submit until **4/23 23:59**)
 
 #### Lecture 8 - Files and Text Processing (4/23)
+
+- [Lecture Note 8](https://docs.google.com/presentation/d/1MZ-9-xKZMWotw5ta_3bXNwGZTu37ISRBEVioElmqeuQ/export?format=pdf)
