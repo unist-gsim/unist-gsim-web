@@ -9,7 +9,7 @@
 ### Grading
 
 - 과제 - 60% ([제출여부 확인](https://docs.google.com/document/d/16djD2f3guU1REarsyDht8PW1aDTtSE0E3CWlaatycdU/export?format=pdf))
-- 프로젝트 - 30% (4/23 - 5/7)
+- [프로젝트](/bat51501/project) - 30% (4/23 - 5/7)
 - 출석 - 10%
 
 ### Online Lectures
@@ -68,3 +68,9 @@
 - [Assignment 6](bat51501/assignments/06_movies) (Submit until **4/23 23:59**)
 
 #### Lecture 8 - Files and Text Processing (4/23)
+
+- [Lecture Note 8](https://docs.google.com/presentation/d/1MZ-9-xKZMWotw5ta_3bXNwGZTu37ISRBEVioElmqeuQ/export?format=pdf)
+
+#### Final Project (4/23 - 5/7)
+
+- [Final Project](/bat51501/project) (Submit until **5/7 23:59**)
