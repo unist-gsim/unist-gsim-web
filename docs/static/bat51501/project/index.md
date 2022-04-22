@@ -8,7 +8,7 @@
 
 #### 공유 URL 복사하는 법
 
-Pythonpad 실습 페이지에서 화면 아래의 **공유**(또는 **Share**) 버튼을 눌러 채점이 완료된 코드의 공유 URL을 복사해서 확보해주세요.\
+Pythonpad 실습 페이지에서 화면 아래의 **공유**(또는 **Share**) 버튼을 눌러 코드의 공유 URL을 복사해서 확보해주세요.\
 ![copy the share url](/static/bat51501/assignments/images/share_url.png)
 
 
@@ -266,7 +266,7 @@ Task 1-1, 1-2와 동일하게 각 곡에 대한 정보 중 **순위**, **곡 제
 ```python
 >>> ranker.get_sorted_artists()
 [
-  '[  2.5] BIGBANG (빅뱅) - 봄여름가을겨울 (Still Life)',
+  '[2.500] BIGBANG (빅뱅) - 봄여름가을겨울 (Still Life)',
   '[0.799] 임영웅 - 사랑은 늘 도망가, 우리들의 블루스',
 ]
 ```
