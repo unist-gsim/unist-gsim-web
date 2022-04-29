@@ -30,7 +30,7 @@
 
 #### Lecture 1 - Language Processing and Python (4/30)
 
-- [Lecture Note 1](https://docs.google.com/presentation/d/1AqejkurfRNhDyjskzt7gkzx2IJZX8uuy6J0k7NQk8xI/edit?usp=sharing)
+- [Lecture Note 1](https://docs.google.com/presentation/d/1AqejkurfRNhDyjskzt7gkzx2IJZX8uuy6J0k7NQk8xI/export?format=pdf)
 
 #### Lecture 2 - Accessing Text Corpora and Lexical Resources (5/7)
 
