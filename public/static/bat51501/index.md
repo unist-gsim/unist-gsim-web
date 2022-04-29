@@ -1,4 +1,4 @@
-# BT51501 Analytics Programming
+# BAT51501 Analytics Programming
 
 ## Spring 2022
 
