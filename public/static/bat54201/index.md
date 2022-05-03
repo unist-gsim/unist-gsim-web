@@ -34,14 +34,32 @@
 
 #### Lecture 2 - Accessing Text Corpora and Lexical Resources (5/7)
 
+- [Lecture Note 2](https://docs.google.com/presentation/d/1EjVn4bHuMHWCP7oKD5iJdJpJPZnuQ9u1FS1jd64TGJI/export?format=pdf)
+
 #### Lecture 3 - Collecting Real World Text Data (5/14)
+
+- Lecture Note 3
+- Assignment 1
 
 #### Lecture 4 - Processing Raw Text (5/21)
 
+- Lecture Note 4
+
 #### Lecture 5 - Categorizing and Tagging Words (5/28)
+
+- Lecture Note 5
+- Assignment 2
 
 #### Lecture 6 - Learning to Classify Text (6/4)
 
+- Lecture Note 6
+
 #### Lecture 7 - Learning to Cluster Text (6/11)
 
+- Lecture Note 7
+- Assignment 3
+- Final Project
+
 #### Lecture 8 - Processing Korean Language with Modern Resources (6/18)
+
+- Lecture Note 8
