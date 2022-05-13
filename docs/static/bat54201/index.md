@@ -38,8 +38,8 @@
 
 #### Lecture 3 - Collecting Real World Text Data (5/14)
 
-- Lecture Note 3
-- Assignment 1
+- [Lecture Note 3](https://docs.google.com/presentation/d/1qHxqqTcGLd0yCYfQF82rHV2vLJUFlMnqR8b9dHI_fx0/export?format=pdf)
+- [Assignment 1](/bat54201/assignments/01_news) (Submit until **5/27 23:59**)
 
 #### Lecture 4 - Processing Raw Text (5/21)
 
