@@ -43,7 +43,7 @@
 
 #### Lecture 4 - Processing Raw Text (5/21)
 
-- Lecture Note 4
+- [Lecture Note 4](https://docs.google.com/presentation/d/1H_by4yMz-hY9hrgkUDZkTtV4mnuzvWxaEIGItIrEcao/export?format=pdf)
 
 #### Lecture 5 - Categorizing and Tagging Words (5/28)
 
