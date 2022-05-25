@@ -47,8 +47,8 @@
 
 #### Lecture 5 - Categorizing and Tagging Words (5/28)
 
-- Lecture Note 5
-- Assignment 2
+- [Lecture Note 5](https://docs.google.com/presentation/d/1LidP0FznQetqc9Uxbr3E28chL61fkgq-r4w4X6Zlm8Q/export?format=pdf)
+- [Assignment 2](/bat54201/assignments/02_text) (Submit until **6/10 23:59**)
 
 #### Lecture 6 - Learning to Classify Text (6/4)
 
