@@ -40,7 +40,8 @@
 
 - [Lecture Note 3](https://docs.google.com/presentation/d/1qHxqqTcGLd0yCYfQF82rHV2vLJUFlMnqR8b9dHI_fx0/export?format=pdf)
 - [Assignment 1](/bat54201/assignments/01_news) (Submit until **5/27 23:59**)
-  - File uploads received from (5/30 9AM): *20226004, 20208243, 20216002, 20226010, 20226012, 20216016, 20216001, 20216016, 20216002, 20216010, 20216006, 20226011, 20216002, 20216002, 20216003, 20226002, 20226008, 20226011, 20216002, 20226001, 20216015, 20226009, 20206036, 20216018, 20216007*
+  - File uploads received from (5/30 9AM): *20206036, 20208243, 20216001, 20216002, 20216003, 20216006, 20216010, 20216015, 20216016, 20216018, 20226001, 20226002, 20226004, 20226008, 20226009, 20226010, 20226011, 20226012*
+  - Solution code will be available on **6/19**. 
 
 #### Lecture 4 - Processing Raw Text (5/21)
 
@@ -53,7 +54,7 @@
 
 #### Lecture 6 - Learning to Classify Text (6/4)
 
-- Lecture Note 6
+- [Lecture Note 6](https://docs.google.com/presentation/d/1e6dgBbu15ux2hCqVIVgy7CbiZaWPPi1Lnqb4RVGZiJs/export?format=pdf)
 
 #### Lecture 7 - Learning to Cluster Text (6/11)
 
