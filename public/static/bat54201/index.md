@@ -58,8 +58,8 @@
 
 #### Lecture 7 - Learning to Cluster Text (6/11)
 
-- Lecture Note 7
-- Assignment 3
+- [Lecture Note 7](https://docs.google.com/presentation/d/18dN05lRhxzK7trJxS6JnljLSir4sKtBiSpwmhqQZ7bM/export?format=pdf)
+- [Assignment 3](/bat54201/assignments/02_classify) (Submit until **6/24 23:59**)
 - Final Project
 
 #### Lecture 8 - Processing Korean Language with Modern Resources (6/18)

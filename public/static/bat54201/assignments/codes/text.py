@@ -1,4 +1,4 @@
-##### BAT54201 Text Mining -- Assignment 01
+##### BAT54201 Text Mining -- Assignment 02
 
 ### Import libraries here.
 import re
