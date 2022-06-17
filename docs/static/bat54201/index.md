@@ -1,5 +1,13 @@
 # BAT54201 Text Mining
 
+## 공지사항
+
+학과사무실에서 성적입력 기간이 6월 24일 23:59 까지라고 전달받은 관계로,
+Assignment 3, Final Project 의 제출 기한이 기존 공지되었던 것과 달리 변경되었습니다. 불편을 드려 죄송합니다. 
+
+부득이한 경우를 제외하고는, Assignment 3, Final Project 모두 **6월 23일 (목) 23:59까지** 제출해주셔야 정상적으로 기한 내 성적 등록이 가능하니
+23일 자정까지 제출해주시면 대단히 감사하겠습니다.
+
 ## Spring 2022
 
 ### Instructor
@@ -59,9 +67,9 @@
 #### Lecture 7 - Learning to Cluster Text (6/11)
 
 - [Lecture Note 7](https://docs.google.com/presentation/d/18dN05lRhxzK7trJxS6JnljLSir4sKtBiSpwmhqQZ7bM/export?format=pdf)
-- [Assignment 3](/bat54201/assignments/03_classify) (Submit until **6/24 23:59**)
-- Final Project
+- [Assignment 3](/bat54201/assignments/03_classify) (Submit until **6/23 23:59**)
 
 #### Lecture 8 - Processing Korean Language with Modern Resources (6/18)
 
-- Lecture Note 8
+- [Lecture Note 8](https://docs.google.com/presentation/d/1J448AWyMc4FIBeKjaRqP-uQY-AqACwlh7axu-O57XSo/export?format=pdf)
+- [Final Project](/bat54201/assignments/0f_movie) (Submit until **6/23 23:59**)
